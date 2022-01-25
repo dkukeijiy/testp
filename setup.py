@@ -2,7 +2,7 @@ import setuptools
  
 setuptools.setup(
     name="testp",
-    version="1.1",
+    version="1.2",
     author="testp",
     author_email="testp@example.com",
     description="libhollow is my own python package",
